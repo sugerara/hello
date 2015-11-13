@@ -26,3 +26,21 @@ field set --fieldName pizzas --type ~.domain.Pizza
 perform tests
 web mvc setup 
 web mvc all --package ~.web
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log closed at 2015-10-30 00:22:49
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-11-14 01:10:21
+security setup
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-11-14 01:48:55
+exit
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log closed at 2015-11-14 02:10:55
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-11-14 02:11:17
+help
+poll now
+quit
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log closed at 2015-11-14 02:24:45
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-11-14 02:24:57
+quit
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log closed at 2015-11-14 02:29:28
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-11-14 02:29:38
+quit
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log closed at 2015-11-14 02:40:50
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-11-14 02:41:01
